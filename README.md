@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nobody 🗿
 - 🌱 learning for earning 💰
-- 📫 Contact me @Nezuaoi
+- 📫 Reach me [Here](https://t.me/Nezuaoi)
 
 Buy Me a coffee 0xCf7620B0731a352839d65010AA79218CBb172222
 
