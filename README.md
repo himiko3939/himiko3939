@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @himiko3939
-- 🌱 I’m currently learning ...
-- 📫 How to reach me @ifal_21
+- 👋 Hi, I’m Nobody 🗿
+- 🌱 learning for earning 💰
+- 📫 Contact me @Nezuaoi
 
 Buy Me a coffee 0xCf7620B0731a352839d65010AA79218CBb172222
 
