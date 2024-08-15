@@ -18,16 +18,9 @@ DONT FORGET GIVE UR STARS
 himiko3939/himiko3939 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-
-
-
-
 ### Portfolio
 
-> *pending...*
-
-![Leo's github stats](https://github-readme-stats.vercel.app/api?username=himiko3939&show_icons=true&theme=dracula&hide=stars,issues)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=himiko3939&bg_color=30,000000,000000,000000,000000,000000,0077be,904e95&title_color=fff&text_color=ff6ec7)
 
 <details>
   <summary>Click👆</summary>
