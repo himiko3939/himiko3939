@@ -19,7 +19,13 @@ You can click the Preview link to take a look at your changes.
 --->
 ### Portfolio
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=himiko3939&bg_color=30,000000,000000,000000,000000,000000,0077be,904e95&title_color=fff&text_color=ff6ec7)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himiko3939&theme=algolia&layout=compact" alt="Top Langs"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=himiko3939&show_icons=true&theme=algolia" alt="dante4rt's GitHub Stats"/>
+</p>
 
 <details>
   <summary>Click👆</summary>
