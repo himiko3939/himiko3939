@@ -9,6 +9,10 @@
 <br><br>
 <pre>
 
+<div align="center">
+  <img  src="https://raw.githubusercontent.com/dipdown/dipdown/main/grid-snake.svg"
+       alt="snake" />
+</div>
 - 📫 Reach me [Here](https://t.me/Nezuaoi)
 Buy Me a coffee
 0xCf7620B0731a352839d65010AA79218CBb172222
@@ -19,13 +23,17 @@ You can click the Preview link to take a look at your changes.
 --->
 ### Portfolio
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dipdown&theme=algolia)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himiko3939&theme=algolia&layout=compact" alt="Top Langs"/>
 </p>
 
+### :fire: My Stats :
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=himiko3939&show_icons=true&theme=algolia" alt="dante4rt's GitHub Stats"/>
 </p>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=himiko3939&theme=algolia)
 
 <details>
   <summary>Click👆</summary>
