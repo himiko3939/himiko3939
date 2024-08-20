@@ -21,14 +21,15 @@ DONT FORGET GIVE UR STARS
 himiko3939/himiko3939 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-### Portfolio :
+  
+### Portfolio 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dipdown&theme=algolia)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himiko3939&theme=algolia&layout=compact" alt="Top Langs"/>
 </p>
 
-### :fire: My Stats :
+### :fire: My Stats 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=himiko3939&show_icons=true&theme=algolia" alt="dante4rt's GitHub Stats"/>
 </p>
